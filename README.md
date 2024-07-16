@@ -62,5 +62,5 @@ Summarized the findings and insights gained from the analysis and modeling proce
 
 
 ## Contact
-For any questions or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) or [Email](ahmedatia456123@gmail.com).
+For any questions or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-ayuop-735a42139/) or [Email](ahmedatia456123@gmail.com).
 
