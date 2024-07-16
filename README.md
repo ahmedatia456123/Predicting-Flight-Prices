@@ -54,7 +54,7 @@ Summarized the findings and insights gained from the analysis and modeling proce
 ## Results
 - **Best Model:** The Random Forest Regressor outperformed other models with the lowest RMSE and highest R² score.
 - **Performance Metrics:** Achieved an RMSE of 0.11, MAE of 0.069, and R² of 0.94 on the test set.
-
+![Image](https://www.kaggleusercontent.com/kf/188427525/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..T8tXesPcglTfMxZW0QiJDg.ifCbDERwxOwlLV0J9k-KZ7hHZDq9NC-OvEJpfuTc7V3ZLZhSGcMkcVaLTNv8OqhoyPpFrf5MED4zhJthWKX1zWRd963TD3flj5d7ygKahYjVK6t17Psmc3qPhbqEIdgqJXgi34rzdIwcT6_8waXFS1PPqePHQOQTi-vDFxn4W1koWgeXsPKIf3wLYt9m8B2DCY4YYNbY3rgy7W0VHV_MGoVIRddtxn-jGK3hgikDP_zuol8LchMBAdPC_chLetzHwOPjhSse6xDh0zavODeote14aBu2V-4Xjf5KRydOunv-pMLbgJcsIb6VRITQKCqivFMnSzfK91gLiR-HDuKbcdOMm9pq0RND1C7lcJQyVVzjmU3NwHWnxkeKfZfCylluyJHT8X2EiUq_AFw_vPxkB4fLkmH7PeUazlbnKkkT7C3n9Fq02_ZKdBflZLOKbswaog6PkNARy0T1s0ggRqe1SQ212n8boECBXhILo3nb4wW9RoDIUhzDn_kgc5t8gV68LY2i9CHgXHSYUhwOkaGwmZDYO6wQkoJeMk8xE_WFlEES1DOFZHgWit7wSyxKhn-QTgzZf5gxZ1D4jxxg796Uu7Z1ezjHP4gCgMkT55-hoXq5atiSt2XVbslF2KW7Ry0i2qxncKAhvUBQXWDpZfpFbXkKXFxbBfVDb0Z7Jkx2Qns.Esw3LzsiWDcoqqA2tRY7ng/__results___files/__results___110_1.png)
 ## Technologies and Tools Used
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
